@@ -15,14 +15,8 @@ nav > a{
 }
 
 nav{
-    display: none;
+    
     flex-flow: column nowrap;
 }
 
-span#menu{
-    display: block;
-    cursor: pointer;
-    color: white;
-
-}
-
+ 

@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-header, header > nav {
+header{
     flex-flow: column nowrap;
 }
 
@@ -15,8 +15,8 @@ nav > a{
 }
 
 nav{
-   
     display: none;
+    flex-flow: column nowrap;
 }
 
 span#menu{
